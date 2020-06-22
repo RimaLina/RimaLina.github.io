@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "bcc8634e54d303f1fb300b3a6630f4d9",
+    "revision": "f5eda57cc6297efd50409883e2d2c527",
     "url": "/RimaLina.github.io/index.html"
   },
   {
-    "revision": "afda9208923837eb47fd",
+    "revision": "eedf9ada0a611244cf18",
     "url": "/RimaLina.github.io/static/css/main.e7791e7d.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/RimaLina.github.io/static/js/2.a925bd4a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "afda9208923837eb47fd",
-    "url": "/RimaLina.github.io/static/js/main.771256fb.chunk.js"
+    "revision": "eedf9ada0a611244cf18",
+    "url": "/RimaLina.github.io/static/js/main.173d5c0e.chunk.js"
   },
   {
     "revision": "662a4c857b50c03fe32b",
