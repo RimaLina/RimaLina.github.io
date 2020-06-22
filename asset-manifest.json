@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/RimaLina.github.io/static/css/main.e7791e7d.chunk.css",
-    "main.js": "/RimaLina.github.io/static/js/main.173d5c0e.chunk.js",
-    "main.js.map": "/RimaLina.github.io/static/js/main.173d5c0e.chunk.js.map",
+    "main.js": "/RimaLina.github.io/static/js/main.ce7d3791.chunk.js",
+    "main.js.map": "/RimaLina.github.io/static/js/main.ce7d3791.chunk.js.map",
     "runtime-main.js": "/RimaLina.github.io/static/js/runtime-main.922feb0a.js",
     "runtime-main.js.map": "/RimaLina.github.io/static/js/runtime-main.922feb0a.js.map",
     "static/js/2.a925bd4a.chunk.js": "/RimaLina.github.io/static/js/2.a925bd4a.chunk.js",
     "static/js/2.a925bd4a.chunk.js.map": "/RimaLina.github.io/static/js/2.a925bd4a.chunk.js.map",
     "index.html": "/RimaLina.github.io/index.html",
-    "precache-manifest.f40dabfd6de77040e837bc49958fdbfd.js": "/RimaLina.github.io/precache-manifest.f40dabfd6de77040e837bc49958fdbfd.js",
+    "precache-manifest.c0c568c229d398ea0dea07e5dec0df45.js": "/RimaLina.github.io/precache-manifest.c0c568c229d398ea0dea07e5dec0df45.js",
     "service-worker.js": "/RimaLina.github.io/service-worker.js",
     "static/css/main.e7791e7d.chunk.css.map": "/RimaLina.github.io/static/css/main.e7791e7d.chunk.css.map",
     "static/js/2.a925bd4a.chunk.js.LICENSE.txt": "/RimaLina.github.io/static/js/2.a925bd4a.chunk.js.LICENSE.txt",
@@ -23,6 +23,6 @@
     "static/js/runtime-main.922feb0a.js",
     "static/js/2.a925bd4a.chunk.js",
     "static/css/main.e7791e7d.chunk.css",
-    "static/js/main.173d5c0e.chunk.js"
+    "static/js/main.ce7d3791.chunk.js"
   ]
 }

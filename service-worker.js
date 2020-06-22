@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/RimaLina.github.io/precache-manifest.f40dabfd6de77040e837bc49958fdbfd.js"
+  "/RimaLina.github.io/precache-manifest.c0c568c229d398ea0dea07e5dec0df45.js"
 );
 
 self.addEventListener('message', (event) => {
