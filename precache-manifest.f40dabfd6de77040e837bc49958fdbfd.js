@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f5eda57cc6297efd50409883e2d2c527",
+    "revision": "6cc238a9101b0cef724fd955388f2a58",
     "url": "/RimaLina.github.io/index.html"
   },
   {
