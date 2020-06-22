@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3d440728862d0c4f2140b8e4fbe893d5",
+    "revision": "bcc8634e54d303f1fb300b3a6630f4d9",
     "url": "/RimaLina.github.io/index.html"
   },
   {
-    "revision": "1e792f020e043bd2b66d",
+    "revision": "afda9208923837eb47fd",
     "url": "/RimaLina.github.io/static/css/main.e7791e7d.chunk.css"
   },
   {
-    "revision": "6a6e375de2bb4f1e0c5e",
-    "url": "/RimaLina.github.io/static/js/2.b6ef6d0b.chunk.js"
+    "revision": "878c2105cb948ed5c92e",
+    "url": "/RimaLina.github.io/static/js/2.a925bd4a.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/RimaLina.github.io/static/js/2.b6ef6d0b.chunk.js.LICENSE.txt"
+    "url": "/RimaLina.github.io/static/js/2.a925bd4a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "1e792f020e043bd2b66d",
-    "url": "/RimaLina.github.io/static/js/main.0e9eb5be.chunk.js"
+    "revision": "afda9208923837eb47fd",
+    "url": "/RimaLina.github.io/static/js/main.771256fb.chunk.js"
   },
   {
     "revision": "662a4c857b50c03fe32b",
